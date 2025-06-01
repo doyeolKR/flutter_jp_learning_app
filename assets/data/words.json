@@ -1,0 +1,370 @@
+[
+  {
+    "id": "1",
+    "kanji": "犬",
+    "furigana": "いぬ",
+    "meaning": "개",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "私は犬が好きです。",
+        "furigana": "わたしはいぬがすきです。",
+        "meaning": "나는 개를 좋아합니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["동물"]
+  },
+  {
+    "id": "2",
+    "kanji": "猫",
+    "furigana": "ねこ",
+    "meaning": "고양이",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "猫はかわいいですね。",
+        "furigana": "ねこはかわいいですね。",
+        "meaning": "고양이는 귀엽네요."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["동물"]
+  },
+  {
+    "id": "3",
+    "kanji": "本",
+    "furigana": "ほん",
+    "meaning": "책",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "この本は面白いです。",
+        "furigana": "このほんはおもしろいです。",
+        "meaning": "이 책은 재미있습니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["물건"]
+  },
+  {
+    "id": "4",
+    "kanji": "学校",
+    "furigana": "がっこう",
+    "meaning": "학교",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "学校に行きます。",
+        "furigana": "がっこうにいきます。",
+        "meaning": "학교에 갑니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["장소"]
+  },
+  {
+    "id": "5",
+    "kanji": "先生",
+    "furigana": "せんせい",
+    "meaning": "선생님",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "先生は優しいです。",
+        "furigana": "せんせいはやさしいです。",
+        "meaning": "선생님은 친절하십니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["사람"]
+  },
+  {
+    "id": "6",
+    "kanji": "山",
+    "furigana": "やま",
+    "meaning": "산",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "山に登ります。",
+        "furigana": "やまにのぼります。",
+        "meaning": "산에 오릅니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["자연"]
+  },
+  {
+    "id": "7",
+    "kanji": "川",
+    "furigana": "かわ",
+    "meaning": "강",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "川で泳ぎます。",
+        "furigana": "かわでおよぎます。",
+        "meaning": "강에서 수영합니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["자연"]
+  },
+  {
+    "id": "8",
+    "kanji": "車",
+    "furigana": "くるま",
+    "meaning": "자동차",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "車を運転します。",
+        "furigana": "くるまをうんてんします。",
+        "meaning": "자동차를 운전합니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["물건"]
+  },
+  {
+    "id": "9",
+    "kanji": "友達",
+    "furigana": "ともだち",
+    "meaning": "친구",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "友達と遊びます。",
+        "furigana": "ともだちとあそびます。",
+        "meaning": "친구와 놉니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["사람"]
+  },
+  {
+    "id": "10",
+    "kanji": "時間",
+    "furigana": "じかん",
+    "meaning": "시간",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "時間がありますか。",
+        "furigana": "じかんがありますか。",
+        "meaning": "시간이 있습니까?"
+      }
+    ],
+    "isLearned": false,
+    "tags": ["추상"]
+  },
+  {
+    "id": "11",
+    "kanji": "家",
+    "furigana": "いえ",
+    "meaning": "집",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "家に帰ります。",
+        "furigana": "いえにかえります。",
+        "meaning": "집에 돌아갑니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["장소"]
+  },
+  {
+    "id": "12",
+    "kanji": "花",
+    "furigana": "はな",
+    "meaning": "꽃",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "花が咲きます。",
+        "furigana": "はながさきます。",
+        "meaning": "꽃이 핍니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["자연"]
+  },
+  {
+    "id": "13",
+    "kanji": "魚",
+    "furigana": "さかな",
+    "meaning": "물고기",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "魚を食べます。",
+        "furigana": "さかなをたべます。",
+        "meaning": "물고기를 먹습니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["동물"]
+  },
+  {
+    "id": "14",
+    "kanji": "雨",
+    "furigana": "あめ",
+    "meaning": "비",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "雨が降ります。",
+        "furigana": "あめがふります。",
+        "meaning": "비가 내립니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["자연"]
+  },
+  {
+    "id": "15",
+    "kanji": "風",
+    "furigana": "かぜ",
+    "meaning": "바람",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "風が強いです。",
+        "furigana": "かぜがつよいです。",
+        "meaning": "바람이 셉니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["자연"]
+  },
+  {
+    "id": "16",
+    "kanji": "食べ物",
+    "furigana": "たべもの",
+    "meaning": "음식",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "おいしい食べ物を探します。",
+        "furigana": "おいしいたべものをさがします。",
+        "meaning": "맛있는 음식을 찾습니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["물건"]
+  },
+  {
+    "id": "17",
+    "kanji": "飲み物",
+    "furigana": "のみもの",
+    "meaning": "음료수",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "冷たい飲み物が欲しいです。",
+        "furigana": "つめたいのみものがほしいです。",
+        "meaning": "차가운 음료수를 원합니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["물건"]
+  },
+  {
+    "id": "18",
+    "kanji": "手",
+    "furigana": "て",
+    "meaning": "손",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "手を洗います。",
+        "furigana": "てをあらいます。",
+        "meaning": "손을 씻습니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["신체"]
+  },
+  {
+    "id": "19",
+    "kanji": "足",
+    "furigana": "あし",
+    "meaning": "다리",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "足が痛いです。",
+        "furigana": "あしがいたいです。",
+        "meaning": "다리가 아픕니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["신체"]
+  },
+  {
+    "id": "20",
+    "kanji": "目",
+    "furigana": "め",
+    "meaning": "눈",
+    "level": "n5",
+    "examples": [
+      {
+        "japanese": "目が疲れました。",
+        "furigana": "めがつかれました。",
+        "meaning": "눈이 피곤합니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["신체"]
+  },
+  {
+    "id": "21",
+    "kanji": "友人",
+    "furigana": "ゆうじん",
+    "meaning": "친구",
+    "level": "n4",
+    "examples": [
+      {
+        "japanese": "友人と旅行します。",
+        "furigana": "ゆうじんとりょこうします。",
+        "meaning": "친구와 여행합니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["사람"]
+  },
+  {
+    "id": "22",
+    "kanji": "都会",
+    "furigana": "とかい",
+    "meaning": "도시",
+    "level": "n4",
+    "examples": [
+      {
+        "japanese": "都会で働きます。",
+        "furigana": "とかいではたらきます。",
+        "meaning": "도시에서 일합니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["장소"]
+  },
+  {
+    "id": "23",
+    "kanji": "季節",
+    "furigana": "きせつ",
+    "meaning": "계절",
+    "level": "n4",
+    "examples": [
+      {
+        "japanese": "季節の変わり目は風邪をひきやすいです。",
+        "furigana": "きせつのかわりめはかぜをひきやすいです。",
+        "meaning": "계절이 바뀔 때는 감기에 걸리기 쉽습니다."
+      }
+    ],
+    "isLearned": false,
+    "tags": ["추상"]
+  }
+]
